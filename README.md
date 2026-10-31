@@ -1,5 +1,9 @@
 # Ex01 Portfolio
+<<<<<<< HEAD
 ## Date:1.10.2026
+=======
+## Date:
+>>>>>>> b9182b96d31cc4dfb390ad541539b60b13314715
 
 ## AIM
 To create a Portfolio using HTML.
