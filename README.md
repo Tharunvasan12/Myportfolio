@@ -1,52 +1,33 @@
 # Ex01 Portfolio
-<<<<<<< HEAD
-## Date:1.10.2026
-=======
-## Date:
->>>>>>> b9182b96d31cc4dfb390ad541539b60b13314715
-
+## Date:31.10.2026
 ## AIM
 To create a Portfolio using HTML.
-
 ## ALGORITHM
 ### STEP 1
 Create an HTML file (index.html)
-
-
 ### STEP 2
 Include a navigation bar with links to different sections.
-
 ### STEP 3
 Add structured sections for introduction, about, projects, and contact details.
-
 ### STEP 4
 Define global styles for fonts, colors, and layout.
-
 ### STEP 5
 Style the header, navigation bar, and sections.
-
-### STEP 7
+### STEP 6
 Use Flexbox or CSS Grid for layout design.
-
-### STEP 8
+### STEP 7
 Add hover effects and transitions for interactivity.
-
-### STEP 9
+### STEP 8
 Add Images and Media.
-
-### STEP 10
+### STEP 9
 Use optimized images for a professional look.
-
-### STEP 11
+### STEP 10
 Open the HTML file in a browser to check layout and functionality.
-
-### STEP 12
+### STEP 11
 Fix styling issues and refine content placement.
-
-### STEP 13
+### STEP 12
 Deploy the Portfolio.
-
-### STEP 14
+### STEP 13
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
